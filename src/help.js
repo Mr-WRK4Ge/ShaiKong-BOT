@@ -1,5 +1,5 @@
 const help = (prefix) => { 
-	return `   *🍁MENU KAZUTOBOT 🍁*
+	return `   *🍁MENU SHAIKONG 🍁*
 	
 	
 ┏━━━━━━━━━━━━━━━━━━━━━┓
@@ -7,10 +7,10 @@ const help = (prefix) => {
 ┃ *LANGGAR BLOCK/BANNED!!!*
 ┣━━━━°❀ *❬ ABOUT ❭* ❀°━━━━━━┛
 ┃
-┃⊱❥ *KAZUTOBOT*
+┃⊱❥ *ShaiKong-BOT*
 ┃⊱❥ *V 6.0*
-┃⊱❥ *http://wa.me/6288221608614*
-┃⊱❥ *Fadhil Graphy*             
+┃⊱❥ *http://wa.me/6282235581069*
+┃⊱❥ *Rioo Ganss*             
 ┃
 ┣━━°❀ ❬ *TENTANG BOT* ❭ ❀°━━┓
 ┃
@@ -211,21 +211,12 @@ const help = (prefix) => {
 ┣⊱❥ *${prefix}setpp*
 ┣⊱❥ *${prefix}leave*
 ┃
-┣━━━━━°❀ ❬ *NAME* ❭ ❀°━━━━━┓
-┃
-┃ ╔══╦══╦══╦╗╔╦══╦╗
-┃ ║═╦╣╔╗╠╗╗║╚╝╠║║╣║
-┃ ║╔╝║╠╣╠╩╝║╔╗╠║║╣╚╗
-┃ ╚╝─╚╝╚╩══╩╝╚╩══╩═╝
-┃
 ┣━━━━°❀ *❬ SOSMED ❭* ❀°━━━━⊱
 ┃
 ┃ *Ada masalah? Hub :*
-┃ _http://wa.me/6288221608614_
-┃ *Instagram :* @nur.fdhl_
-┃ *YouTube :*
-┃ _Fadhil Graphy_
-┃ *Twitter :* @nurfdhl_
+┃ _http://wa.me/6282235581069_
+┃ *Instagram :* @ShaiKong_9z
+┃
 ┃
 ┣━━━━°❀ *❬ NOTE ❭* ❀°━━━━━━⊱
 ┃
@@ -247,7 +238,9 @@ const help = (prefix) => {
 ┣⊱❥ *${prefix}DLL*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━┓
-┃ *❬ POWERED BY KAZUTOBOT ❭*
+┃ *❬ POWERED BY SHAIKONG ❭*
 ┗━━━━━━━━━━━━━━━━━━━━┛`
 }
 exports.help = help
+
+
