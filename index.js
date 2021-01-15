@@ -2,7 +2,7 @@
 * Om mau ngapain om, jangan om...
 * Hayo mau ngapainn
 * Jangan diganti kecuali yg gua bolehin!!!
-* By Fadhil Graphy
+* By Triodiory Lubis
 * TQTO ada di paling bawah!!!
 * cari report sama request ganti nomor lu!!!
 */
@@ -35,7 +35,7 @@ const anime = JSON.parse(fs.readFileSync('./src/anime.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN ASU!?
             + 'VERSION:3.0\n' // SANA BUAT SENDIRI ENAK BENER LU!!!
-            + 'FN:SHAIKONG\n' // NAMA OWNER BOT
+            + 'FN:Shaikong Gans\n' // NAMA OWNER BOT
             + 'ORG:Creator ShaiKong-BOT;\n' // KASIH CREDITS GUA FADHIL GRAPHY SU!!!
             + 'TEL;type=CELL;type=VOICE;waid=6282235581069:+62 822-3558-1069\n' // GANTI NOMOR LU
             + 'END:VCARD'
