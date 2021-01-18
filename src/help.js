@@ -1,6 +1,7 @@
 const help = (prefix) => { 
 	return `  Hai Oniichan>//<
-Semoga BOT SlaluBisa  Membantumu 
+Semoga BOT Slalu Bisa Membantumu ^_^
+
 ╭─「 WARN 」
 │ • *⚠️ NO SPAM!! NO CALL!!! ⚠️*
 │ • *LANGGAR BLOCK/BANNED!!!*
