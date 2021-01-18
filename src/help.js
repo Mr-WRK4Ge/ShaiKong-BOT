@@ -1,245 +1,224 @@
 const help = (prefix) => { 
-	return `   *🍁MENU SHAIKONG 🍁*
-	
-	
-┏━━━━━━━━━━━━━━━━━━━━━┓
-┃ *⚠️ NO SPAM!! NO CALL!!! ⚠️*
-┃ *LANGGAR BLOCK/BANNED!!!*
-┣━━━━°❀ *❬ ABOUT ❭* ❀°━━━━━━┛
-┃
-┃⊱❥ *ShaiKong-BOT*
-┃⊱❥ *V 6.0*
-┃⊱❥ *http://wa.me/6282235581069*
-┃⊱❥ *Rioo Ganss*             
-┃
-┣━━°❀ ❬ *TENTANG BOT* ❭ ❀°━━┓
-┃
-┣⊱❥ *${prefix}info*
-┣⊱❥ *${prefix}donasi*
-┣⊱❥ *${prefix}owner*
-┣⊱❥ *${prefix}speed*
-┣⊱❥ *${prefix}report [lapor bug]*
-┃͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏ ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏.
-┣━━━━°❀ ❬ *MEDIA* ❭ ❀°━━━━━┓
-┃
-┣⊱❥ *${prefix}stiker*
-┣⊱❥ *${prefix}tsticker*
-┣⊱❥ *${prefix}toimg*
-┣⊱❥ *${prefix}nulis*
-┣⊱❥ *${prefix}ocr*
-┣⊱❥ *${prefix}ytsearch*
-┣⊱❥ *${prefix}ytmp3*
-┣⊱❥ *${prefix}ytmp4*
-┣⊱❥ *${prefix}tiktok*
-┣⊱❥ *${prefix}tiktokstalk*
-┣⊱❥ *${prefix}fototiktok*
-┣⊱❥ *${prefix}igstalk*
-┣⊱❥ *${prefix}image*
-┣⊱❥ *${prefix}pinterest*
-┣⊱❥ *${prefix}tts*
-┣⊱❥ *${prefix}tes*
-┣⊱❥ *${prefix}tep*
-┣⊱❥ *${prefix}ttp*
-┣⊱❥ *${prefix}meme*
-┣⊱❥ *${prefix}memeindo*
-┣⊱❥ *${prefix}ssweb*
-┣⊱❥ *${prefix}walpaperhd*
-┣⊱❥ *${prefix}randomcat*
-┣⊱❥ *${prefix}joox*
-┣⊱❥ *${prefix}inu*
-┣⊱❥ *${prefix}elang*
-┣⊱❥ *${prefix}unta*
-┣⊱❥ *${prefix}anjing*
-┣⊱❥ *${prefix}babi*
-┣⊱❥ *${prefix}playstore*
-┣⊱❥ *${prefix}url2image*
-┣⊱❥ *${prefix}kbbi*
-┣⊱❥ *${prefix}imoji*
-┣⊱❥ *${prefix}wait*
-┃
-┣━━━━°❀ ❬ *CREATOR* ❭ ❀°━━━━┓
-┃
-┣⊱❥ *${prefix}thunder*
-┣⊱❥ *${prefix}tahta*
-┣⊱❥ *${prefix}glitch <teks|teks>*
-┣⊱❥ *${prefix}phlogo <teks|teks>*
-┣⊱❥ *${prefix}wolflogo <teks|teks>*
-┣⊱❥ *${prefix}wolflogo2 <teks|teks>*
-┣⊱❥ *${prefix}quotemaker <tx|wtrmk|tema>*
-┣⊱❥ *${prefix}galaxtext*
-┣⊱❥ *${prefix}textdark*
-┣⊱❥ *${prefix}textblue*
-┣⊱❥ *${prefix}lovemake*
-┣⊱❥ *${prefix}stiltext*
-┣⊱❥ *${prefix}ninjalogo*
-┣⊱❥ *${prefix}party*
-┣⊱❥ *${prefix}rtext*
-┣⊱❥ *${prefix}water*
-┣⊱❥ *${prefix}lionlogo <teks|teks>*
-┣⊱❥ *${prefix}textscreen*
-┣⊱❥ *${prefix}text3d*
-┣⊱❥ *${prefix}epep*
-┣⊱❥ *${prefix}marvelogo <teks|teks>*
-┣⊱❥ *${prefix}snow <teks|teks>*
-┣⊱❥ *${prefix}firetext*
-┃
-┣━━━°❀ ❬ *FUN&GAMES* ❭ ❀°━━━┓
-┃
-┣⊱❥ *${prefix}truth*
-┣⊱❥ *${prefix}dare*
-┣⊱❥ *${prefix}tebakgambar*
-┣⊱❥ *${prefix}family100*
-┣⊱❥ *${prefix}caklontong*
-┣⊱❥ *${prefix}game*
-┣⊱❥ *${prefix}primbonjodoh*
-┣⊱❥ *${prefix}ramaljadian*
-┣⊱❥ *${prefix}mlherolist*
-┣⊱❥ *${prefix}bucin*
-┣⊱❥ *${prefix}persengay*
-┣⊱❥ *${prefix}ramalhp <nomor>*
-┣⊱❥ *${prefix}ceckjodoh*
-┃
-┣━━━━━°❀ ❬ *ANIME* ❭ ❀°━━━━━┓
-┃
-┣⊱❥ *${prefix}openanime*
-┣⊱❥ *${prefix}Naruto*
-┣⊱❥ *${prefix}Minato*
-┣⊱❥ *${prefix}Boruto*
-┣⊱❥ *${prefix}Hinata*
-┣⊱❥ *${prefix}Sakura*
-┣⊱❥ *${prefix}Sasuke*
-┣⊱❥ *${prefix}kaneki*
-┣⊱❥ *${prefix}toukacan*
-┣⊱❥ *${prefix}rize*
-┣⊱❥ *${prefix}akira*
-┣⊱❥ *${prefix}itori*
-┣⊱❥ *${prefix}kurumi*
-┣⊱❥ *${prefix}miku*
-┣⊱❥ *${prefix}anime*
-┣⊱❥ *${prefix}nekonime*
-┣⊱❥ *${prefix}loli*
-┣⊱❥ *${prefix}loli2*
-┣⊱❥ *${prefix}waifu*
-┣⊱❥ *${prefix}waifu2*
-┣⊱❥ *${prefix}wibu*
-┣⊱❥ *${prefix}randomanime*
-┣⊱❥ *${prefix}pokemon*
-┣⊱❥ *${prefix}artinama*
-┃
-┣━━°❀ ❬ *INFO&EDUKASI* ❭ ❀°━━━┓
-┃
-┣⊱❥ *${prefix}infogc*
-┣⊱❥ *${prefix}infogempa*
-┣⊱❥ *${prefix}infogithub*
-┣⊱❥ *${prefix}infocuaca*
-┣⊱❥ *${prefix}infonomor*
-┣⊱❥ *${prefix}infomobil*
-┣⊱❥ *${prefix}infomotor*
-┣⊱❥ *${prefix}grupinfo*
-┣⊱❥ *${prefix}lirik*
-┣⊱❥ *${prefix}quotes*
-┣⊱❥ *${prefix}cerpen*
-┣⊱❥ *${prefix}chord*
-┣⊱❥ *${prefix}wiki*
-┣⊱❥ *${prefix}brainly*
-┣⊱❥ *${prefix}resepmasakan*
-┣⊱❥ *${prefix}map*
-┃
-┣━━━━━°❀ ❬ *GRUP* ❭ ❀°━━━━━━┓
-┃
-┣⊱❥ *${prefix}add*
-┣⊱❥ *${prefix}kick*
-┣⊱❥ *${prefix}promote*
-┣⊱❥ *${prefix}demote*
-┣⊱❥ *${prefix}setname*
-┣⊱❥ *${prefix}setdesc*
-┣⊱❥ *${prefix}welcome*
-┣⊱❥ *${prefix}nsfw*
-┣⊱❥ *${prefix}simih*
-┣⊱❥ *${prefix}grup [buka/tutup]*
-┣⊱❥ *${prefix}tagme*
-┣⊱❥ *${prefix}hidetag*
-┣⊱❥ *${prefix}tagall*
-┣⊱❥ *${prefix}otagall*
-┣⊱❥ *${prefix}fitnah*
-┣⊱❥ *${prefix}infogc*
-┣⊱❥ *${prefix}grupinfo*
-┣⊱❥ *${prefix}linkgrup*
-┣⊱❥ *${prefix}listadmins*
-┣⊱❥ *${prefix}openanime*
-┣⊱❥ *${prefix}edotense*
-┣⊱❥ *${prefix}kudeta*
-┃
-┣━━━━━°❀ ❬ *NSFW* ❭ ❀°━━━━━━┓
-┃
-┣⊱❥ *${prefix}nsfwloli*
-┣⊱❥ *${prefix}nsfwblowjob*
-┣⊱❥ *${prefix}nsfwneko*
-┣⊱❥ *${prefix}nsfwtrap*
-┣⊱❥ *${prefix}randomhentai*
-┣⊱❥ *${prefix}hentai*
-┣⊱❥ *${prefix}indohot*
-┃
-┣━━━━°❀ ❬ *KERANG* ❭ ❀°━━━━━┓
-┃
-┣⊱❥ *${prefix}apakah*
-┣⊱❥ *${prefix}kapankah*
-┣⊱❥ *${prefix}bisakah*
-┣⊱❥ *${prefix}rate*
-┣⊱❥ *${prefix}watak*
-┣⊱❥ *${prefix}hobby*
-┃
-┣━━━━━°❀ ❬ *OTHER* ❭ ❀°━━━━━┓
-┃
-┣⊱❥ *${prefix}blocklist*
-┣⊱❥ *${prefix}testime*
-┣⊱❥ *${prefix}hilih*
-┣⊱❥ *${prefix}say*
-┣⊱❥ *${prefix}delete*
-┣⊱❥ *${prefix}shorturl*
-┃
-┣━━━━°❀ ❬ *OWNER* ❭ ❀°━━━━━┓
-┃
-┣⊱❥ *${prefix}bc*
-┣⊱❥ *${prefix}ban*
-┣⊱❥ *${prefix}block*
-┣⊱❥ *${prefix}unblock*
-┣⊱❥ *${prefix}clearall*
-┣⊱❥ *${prefix}clone*
-┣⊱❥ *${prefix}getses*
-┣⊱❥ *${prefix}setpp*
-┣⊱❥ *${prefix}setpp*
-┣⊱❥ *${prefix}leave*
-┃
-┣━━━━°❀ *❬ SOSMED ❭* ❀°━━━━⊱
-┃
-┃ *Ada masalah? Hub :*
-┃ _http://wa.me/6282235581069_
-┃ *Instagram :* @ShaiKong_9z
-┃
-┃
-┣━━━━°❀ *❬ NOTE ❭* ❀°━━━━━━⊱
-┃
-┃Bot ini belum selesai sepenuhnya
-┃Masih dalam proses pengerjaan
-┃Jadi masih jarang aktif.
-┃
-┣━━━━━°❀ ❬ *TQTO* ❭ ❀°━━━━━┛
-┃
-┃ *SPECIAL THANGKS TO🤝*
-┣⊱❥ *${prefix}XPTN*
-┣⊱❥ *${prefix}FADHILGRAPHY*
-┣⊱❥ *${prefix}ALFA*
-┣⊱❥ *${prefix}ARUGAZ*
-┣⊱❥ *${prefix}DUINGZ*
-┣⊱❥ *${prefix}YUKINIKO*
-┣⊱❥ *${prefix}MHANKBARBAR*
-┣⊱❥ *${prefix}MYBOT TEAM*
-┣⊱❥ *${prefix}DLL*
-┃
-┣━━━━━━━━━━━━━━━━━━━━┓
-┃ *❬ POWERED BY SHAIKONG ❭*
-┗━━━━━━━━━━━━━━━━━━━━┛`
+	return `  Hai Oniichan>//<
+Semoga BOT SlaluBisa  Membantumu 
+╭─「 WARN 」
+│ • *⚠️ NO SPAM!! NO CALL!!! ⚠️*
+│ • *LANGGAR BLOCK/BANNED!!!*
+╰────────────────
+╭─「 ABOUT BOT 」
+│ • Nama BOT : ShaiKong_BoT   
+│ • Nama Owner : Rio Gans
+│ • WA Owner : wa.me/6282235581069
+│ • IG Owner : @ShaiKong_9z
+╰────────────────
+‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
+╭─「 TENTANG 」
+│ • ${prefix}Info
+│ • ${prefix}Donasi
+│ • ${prefix}Owner
+│ • ${prefix}Speed
+│ • ${prefix}Report [ Lapor Masalah ]
+╰────────────────
+
+╭─「 MEDIA 」
+│ • ${prefix}Sticker
+│ • ${prefix}Tsticker
+│ • ${prefix}Toimg
+│ • ${prefix}Nulis
+│ • ${prefix}Ocr
+│ • ${prefix}Ytsearch
+│ • ${prefix}Ytmp3
+│ • ${prefix}Ytmp4
+│ • ${prefix}Tiktok
+│ • ${prefix}Tiktokstalk
+│ • ${prefix}Fototiktok
+│ • ${prefix}Igstalk
+│ • ${prefix}image
+│ • ${prefix}Pinterest
+│ • ${prefix}Tts
+│ • ${prefix}Ttp
+│ • ${prefix}Tes
+│ • ${prefix}Tep
+│ • ${prefix}Meme
+│ • ${prefix}Memeindo
+│ • ${prefix}Ssweb
+│ • ${prefix}Walpaperhd
+│ • ${prefix}Randomcat
+│ • ${prefix}Joox
+│ • ${prefix}Inu
+│ • ${prefix}Elang
+│ • ${prefix}Unta
+│ • ${prefix}Anjing
+│ • ${prefix}Babi
+│ • ${prefix}Playstore
+│ • ${prefix}Url2image
+│ • ${prefix}Kbbi
+│ • ${prefix}Imoji
+│ • ${prefix}Wait
+╰────────────────
+
+╭─「 CREATOR 」
+│ • ${prefix}Thunder
+│ • ${prefix}Tahta
+│ • ${prefix}Glitch <TeksAtas|TeksBawah>
+│ • ${prefix}Phlogo <TeksKiri|TeksKanan>
+│ • ${prefix}Wolflogo <TeksAtas|TeksTengah>
+│ • ${prefix}Wolflogo2 <TeksAtas|TeksTengah>
+│ • ${prefix}Quotemaker <Teks|WaterMark|Tema>
+│ • ${prefix}Galaxtext*
+│ • ${prefix}Textblue*
+│ • ${prefix}Stiltext
+│ • ${prefix}Lovemake
+│ • ${prefix}Ninjalogo
+│ • ${prefix}Party
+│ • ${prefix}Rtext
+│ • ${prefix}Water
+│ • ${prefix}Lionlogo <Teks|Teks>
+│ • ${prefix}Textscreen
+│ • ${prefixText3d
+│ • ${prefix}Epep
+│ • ${prefix}Marvelogo <Teks|Teks>
+│ • ${prefix}Snow <Teks|Teks>
+│ • ${prefix}Firetext
+╰────────────────
+
+╭─「 FUN 」
+│ • ${prefix}Truth
+│ • ${prefix}Dare
+│ • ${prefix}Tebakgambar
+│ • ${prefix}Family100
+│ • ${prefix}Caklontong
+│ • ${prefix}Primbonjodoh
+│ • ${prefix}Game
+│ • ${prefix}Ramaljadian
+│ • ${prefix}MLherolist
+│ • ${prefix}Bucin
+│ • ${prefix}Persengay
+│ • ${prefix}Ramalhp <Nomor>
+│ • ${prefix}Cekjodoh
+│ • ${prefix}Artinama
+╰────────────────
+
+╭─「 ANIME 」
+│ • ${prefix}Openanime
+│ • ${prefix}Naruto
+│ • ${prefix}Minato
+│ • ${prefix}Boruto
+│ • ${prefix}Hinata
+│ • ${prefix}Sakura
+│ • ${prefix}Sasuke
+│ • ${prefix}Kaneki
+│ • ${prefix}Toukacan
+│ • ${prefix}toukacan
+│ • ${prefix}Rize
+│ • ${prefix}Akira
+│ • ${prefix}Itori
+│ • ${prefix}Kurumi
+│ • ${prefix}Miku
+│ • ${prefix}Randomanime
+│ • ${prefix}Nekonime
+│ • ${prefix}Loli/Loli2
+│ • ${prefix}Loli2
+│ • ${prefix}Waifu
+│ • ${prefix}Waifu2
+│ • ${prefix}Wibu
+│ • ${prefix}Pokemon
+╰────────────────
+
+╭─「 EDUKASI 」
+│ • ${prefix}Infogc
+│ • ${prefix}Infogempa
+│ • ${prefix}Infogithub
+│ • ${prefix}Infocuaca
+│ • ${prefix}Infonomor
+│ • ${prefix}Infomobil
+│ • ${prefix}Infomotor
+│ • ${prefix}Lirik
+│ • ${prefix}Quotes
+│ • ${prefix}Cerpen
+│ • ${prefix}Chord
+│ • ${prefix}Wiki
+│ • ${prefix}Brainly
+│ • ${prefix}Resepmakanan
+│ • ${prefix}Map
+╰────────────────
+
+╭─「 Group 」
+│ • ${prefix}Add
+│ • ${prefix}Kick
+│ • ${prefix}Promote
+│ • ${prefix}Demote
+│ • ${prefix}Setname
+│ • ${prefix}Setdesc
+│ • ${prefix}Welcome <Enable/Disable>
+│ • ${prefix}Nsfw <Enable/Disable>
+│ • ${prefix}Simih <Enable/Disable>
+│ • ${prefix}Grup <Buka/Tutup>
+│ • ${prefix}Tagme
+│ • ${prefix}Hidetag
+│ • ${prefix}Tagall
+│ • ${prefix}Fitnah
+│ • ${prefix}Groupinfo
+│ • ${prefix}Linkgroup
+│ • ${prefix}Listadmins
+│ • ${prefix}Edotense
+╰────────────────
+
+╭─「 Internet 」
+│ • ${prefix}Nsfwloli
+│ • ${prefix}Nsfwblowjob
+│ • ${prefix}Nsfwneko
+│ • ${prefix}Nsfwtrap
+│ • ${prefix}Randomhentai
+│ • ${prefix}Hentai
+│ • ${prefix}Indohot
+╰────────────────
+
+╭─「 KERANG 」
+│ • ${prefix}Apakah
+│ • ${prefix}Kapankah
+│ • ${prefix}Bisakah
+│ • ${prefix}Rate
+│ • ${prefix}Watak
+│ • ${prefix}Hobby
+╰────────────────
+
+╭─「 OTHER 」
+│ • ${prefix}Blocklist
+│ • ${prefix}Testime
+│ • ${prefix}Hilih
+│ • ${prefix}Say
+│ • ${prefix}Delete
+│ • ${prefix}Shorturl
+╰────────────────
+
+╭─「 OWNER 」
+│ • ${prefix}Bc
+│ • ${prefix}Ban
+│ • ${prefix}Unban
+│ • ${prefix}Block
+│ • ${prefix}Unblock
+│ • ${prefix}Clearall
+│ • ${prefix}Clone
+│ • ${prefix}Getses
+│ • ${prefix}Setpp
+│ • ${prefix}Leave
+╰────────────────
+
+╭─「 THANKS TO 」
+│ • XPTN
+│ • FADHILGRAPHY
+│ • ALFA
+│ • ARUGAZ
+│ • DUINGZ
+│ • YUKINIKO
+│ • MHANKBARBAR
+│ • DLL
+╰────────────────
+
+╭─「 POWERED  」
+│ • BY ~> ShaiKong-BoT
+╰────────────────`
 }
 exports.help = help
 
