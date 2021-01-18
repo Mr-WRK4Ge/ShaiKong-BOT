@@ -142,7 +142,7 @@ async function starts() {
 				only: {
 					group: '*Perintah ini hanya bisa di gunakan dalam group!*',
 					ownerG: '*Perintah ini hanya bisa di gunakan oleh owner group!*',
-					ownerB: '*Perintah ini hanya bisa di gunakan oleh owner bot!* ',
+					ownerB: '*Lu Cuma Pengguna Biasa Ngentod, Mana Bisa Pake Perintah Khusus Owner!* ',
 					admin: '*Perintah ini hanya bisa di gunakan oleh admin group!*',
 					Badmin: '*Perintah ini hanya bisa di gunakan ketika bot menjadi admin!*'
 				}
@@ -199,7 +199,7 @@ async function starts() {
 				case 'info':
 					me = client.user
 					uptime = process.uptime()
-					teks = `➽ *Nama Bot* : _${me.name}_\n➽ *Nomer Bot* : _@${me.jid.split('@')[0]}_\n➽ *prefix* : _${prefix}_\n➽ *Total Block* : _${blocked.length}_\n➽ *Aktif Sejak* : _${kyun(uptime)}_\n➽ *Instagram* : https://www.instagram.com/nur.fdhl_\n➽ *YouTube* : https://youtube.com/channel/UCdQHlF_G7XUaPCSHw-WMS0g\n➽ *Script By* : _Fadhil Graphy_ [Fadhil]\n➽ *Note* : _Ini SC pribadi no minta SC_\n➽ *Sepecial Thangks To* :\n➽ _Allah SWT_ \n➽ _MahankBarBar_ \n➽ _Seluruh member *MyBot Team*_\n➽ _Fadhil Graphy_\n➽ _MahankBarbar_\n➽ _Affis_\n➽ _Anang_\n➽ _Bryan_\n➽ _Bagas_\n➽ _Ntaa_\n➽ _XP-TN_\n➽_YUKINIKO_\n_DLL_`
+					teks = `➽ *Nama Bot* : _${me.name}_\n➽ *Nomer Bot* : _@${me.jid.split('@')[0]}_\n➽ *prefix* : _${prefix}_\n➽ *Total Block* : _${blocked.length}_\n➽ *Aktif Sejak* : _${kyun(uptime)}_\n➽ *Instagram* : https://www.instagram.com/ShaiKong_9z\n➽ *Script By* : _ShaiKong_ [Rio Gans]\n➽ *Note* : _Ini SC pribadi no minta SC_\n➽ *Sepecial Thangks To* :\n➽ _Allah SWT_ \n➽ _MahankBarBar_ \n➽ _Seluruh member *MyBot Team*_\n➽ _Fadhil Graphy_\n➽ _MahankBarbar_\n➽ _Affis_\n➽ _Anang_\n➽ _Bryan_\n➽ _Bagas_\n➽ _Ntaa_\n➽ _XP-TN_\n➽_YUKINIKO_\n_DLL_`
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
@@ -329,7 +329,7 @@ async function starts() {
 					break
 			case 'owner':
                  client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-                 client.sendMessage(from, 'itu pacar ku eh owner ku ><',MessageType.text, { quoted: mek} )
+                 client.sendMessage(from, 'Itu Owenr Ku Ya Kak,Jan Disakitin Hatinya, Ntar Aku Nangis Lhoo ><',MessageType.text, { quoted: mek} )
                  break
                  case 'fitnah':	
 				case 'fake':          
@@ -771,7 +771,7 @@ async function starts() {
 					break
                 case 'donasi':
 				case 'donate':
-					client.sendMessage(from, 'Mau donasi ya om?✨\n\n اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ\n_“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_\n\n*Pulsa XL :* _0877-2064-6259_\n*Dana :* _0877-2064-6259_\n*TRAKTEER :* _https://trakteer.id/yukiniko\n*Gopay :* _0877-2064-6259_\n*OVO :* _0877-2064-6259_', text, { quoted: mek })
+					client.sendMessage(from, 'Mau donasi ya om?✨\n\n اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ\n_“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_\n\n*Pulsa Tsel :* _0822-3558-1069_\n*Dana :* _0822-3558-1069_\n*TRAKTEER :* _https://trakteer.id/yukiniko\n*Gopay :* _0822-3558-1069_\n*OVO :* _0822-3558-1069_', text, { quoted: mek })
 					break
                 case 'tes':
                    client.sendMessage(from, 'ok', text, {quoted: mek})
@@ -811,7 +811,7 @@ async function starts() {
                          contextInfo: {mentionedJid: [nomor]},
                      }
                     client.sendMessage('6282235581069@s.whatsapp.net', options, text, {quoted: mek})
-                    reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi dan anda saya block.')
+                    reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi dan anda akan saya block.')
                     break
                 case 'request':
                      const cfrr = body.slice(8)
@@ -1665,7 +1665,7 @@ async function starts() {
 						reply('Suksess broadcast')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[ *KAZUTOBOT BROADCAST* ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `[ *ShaiKong_BOT BROADCAST* ]\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
